@@ -7,7 +7,7 @@ html,body{
     padding: 0;
     width: 800px;
     text-align: center;
-   
+    
 }
 
 
@@ -53,6 +53,8 @@ li{
 .container{
     width: 100%;
     background-color: rgba(27, 26, 26, 0.9);
+    padding: 60px;
+    
 
 }
 section{
